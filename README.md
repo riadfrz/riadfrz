@@ -36,6 +36,6 @@ I'm a mobile and web developer fueled by a passion for coding, fitness, and self
  <summary><h3>👨‍💻 Ryadh's Coding Journey</h3></summary>
 In my second year as a computer science student, I dove headfirst into the vast realm of programming, eager to absorb everything—from intricate code to the principles of Unix and beyond. Then, a revelation struck: app development. It was as if a door had swung open to a world of endless possibilities, and within it lay my long-held dream of crafting my own app.
 
-Fueled by this newfound passion, I joined forces with two close friends, and together, we embarked on an exhilarating journey to bring our vision to life—a revolutionary fitness tracker unlike any other.
+Fueled by this newfound passion, I joined forces with two close friends, and together, we embarked on an exhilarating journey to bring our vision to life a revolutionary fitness tracker unlike any other.
 
 Now, more determined than ever, I stand on the brink of turning that dream into reality. With every line of code and every brainstorming session, we edge closer to our goal. So, brace yourselves, because I'm poised and ready to leave my mark on the world of app development.
